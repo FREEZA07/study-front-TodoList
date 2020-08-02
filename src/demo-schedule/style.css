@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css'; 
+
+/* 日程表头区域 */
+#schedule-header {
+  margin: 30px;
+}
+
+/* 待办事项列表 */
+#schedule-todoList {
+    border-radius: 10px;
+    margin: 30px;
+}
+
+/* 完成事项列表 */
+#schedule-doneList {
+  border-radius: 10px;
+  margin: 30px;
+}
